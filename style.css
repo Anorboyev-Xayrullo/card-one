@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,li{
+    list-style: none;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+.navbar-read{
+    margin: 20px;
+    border: 1px solid black;
+    width: 350px;
+    height: 400px;
+}
+
+.navbar-read h2{
+    margin: 20px;
+}
+
+.navbar-read p{
+    margin: 10px;
+}
+
+
+
+.navbar-text{
+    display: flex;
+    margin-top: 50px;
+}
